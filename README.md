@@ -1,4 +1,8 @@
 
+# Brutal Nginx
+
+ Using [TCP Brutal](https://github.com/apernet/tcp-brutal) congestion control algorithm in NGINX 
+
 # NGINX Configuration
 
 Add this to `/etc/nginx/nginx.conf`
